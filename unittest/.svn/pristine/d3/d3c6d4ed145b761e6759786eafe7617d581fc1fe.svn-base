@@ -1,0 +1,4 @@
+<?php
+
+define( 'TARGET_DOMAIN', 'test.sdkpay.austin.ids.com');
+// define( 'TARGET_DOMAIN', 'payv2.dev.ids111.com');

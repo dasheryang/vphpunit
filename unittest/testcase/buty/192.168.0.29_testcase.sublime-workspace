@@ -1,0 +1,983 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ga",
+				"game_list"
+			],
+			[
+				"gam",
+				"game_id"
+			],
+			[
+				"g",
+				"game_list"
+			],
+			[
+				"gi",
+				"gift_info"
+			],
+			[
+				"gif",
+				"gift_info"
+			],
+			[
+				"AP",
+				"ApplySysGift"
+			],
+			[
+				"is",
+				"is_finished"
+			],
+			[
+				"gou",
+				"group_id"
+			],
+			[
+				"App",
+				"ApplySysGift"
+			],
+			[
+				"is_",
+				"is_in"
+			],
+			[
+				"game",
+				"game_id"
+			],
+			[
+				"gift",
+				"gift_info"
+			],
+			[
+				"sy",
+				"sys_gift_can_apply"
+			],
+			[
+				"sys",
+				"sys_gift_list"
+			],
+			[
+				"_ge",
+				"_getSysGiftList"
+			],
+			[
+				"ap",
+				"apply_gift_list"
+			],
+			[
+				"p",
+				"params"
+			],
+			[
+				"isa",
+				"is_array"
+			],
+			[
+				"res",
+				"res_1"
+			],
+			[
+				"re",
+				"res_1"
+			],
+			[
+				"gid",
+				"gid_packet_str"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"con",
+				"condition"
+			],
+			[
+				"use",
+				"user_list"
+			],
+			[
+				"us",
+				"user_list"
+			],
+			[
+				"_",
+				"_checkTarUidParams"
+			],
+			[
+				"obj",
+				"obj_ret_data"
+			],
+			[
+				"app",
+				"app_id"
+			],
+			[
+				"sta",
+				"static"
+			],
+			[
+				"pz",
+				"pz_identitys"
+			],
+			[
+				"jso",
+				"json_decode"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"st",
+				"start_time"
+			],
+			[
+				"getC",
+				"getCurrentPlayerId"
+			],
+			[
+				"le",
+				"level"
+			],
+			[
+				"getCu",
+				"getCurrentPlayerId"
+			],
+			[
+				"cl",
+				"client_time"
+			],
+			[
+				"key",
+				"key_gid"
+			],
+			[
+				"k",
+				"key_gid"
+			],
+			[
+				"pri",
+				"prize_list"
+			],
+			[
+				"ke",
+				"key_arr"
+			],
+			[
+				"pr",
+				"prize_list"
+			],
+			[
+				"user",
+				"userinfo"
+			],
+			[
+				"crea",
+				"create_time"
+			],
+			[
+				"userin",
+				"userinfo_new"
+			],
+			[
+				"cre",
+				"create_time"
+			],
+			[
+				"recover",
+				"recover_num"
+			],
+			[
+				"all",
+				"allow_pay"
+			],
+			[
+				"allow",
+				"allow_pay"
+			],
+			[
+				"cha",
+				"channel_id"
+			],
+			[
+				"ch",
+				"channel_id"
+			],
+			[
+				"cu",
+				"count"
+			],
+			[
+				"co",
+				"colum_ids"
+			],
+			[
+				"ca",
+				"channel"
+			],
+			[
+				"strto",
+				"strtotime"
+			],
+			[
+				"return",
+				"return_data"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"retu",
+				"return_data"
+			],
+			[
+				"data",
+				"data_info"
+			],
+			[
+				"mt",
+				"mt_rand"
+			],
+			[
+				"ip",
+				"ip_key"
+			],
+			[
+				"poi",
+				"point_info"
+			],
+			[
+				"cons",
+				"consumer_key"
+			],
+			[
+				"str",
+				"strcmp"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"order",
+				"order_text"
+			],
+			[
+				"ord",
+				"order_str"
+			],
+			[
+				"ore",
+				"order_str"
+			],
+			[
+				"or",
+				"order_str"
+			],
+			[
+				"date",
+				"datetime"
+			],
+			[
+				"auth",
+				"authenticate_post_data"
+			],
+			[
+				"ret",
+				"return_arr"
+			],
+			[
+				"req",
+				"request_token_res"
+			],
+			[
+				"_m",
+				"_modifyKey"
+			],
+			[
+				"au",
+				"auth_data_str"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"new",
+				"new_token"
+			],
+			[
+				"base",
+				"base_strings"
+			],
+			[
+				"oau",
+				"oauthRequest"
+			],
+			[
+				"curl_",
+				"curl_init"
+			],
+			[
+				"cos",
+				"consumer_key"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "mofang/gift/set_gift_type.php",
+			"settings":
+			{
+				"buffer_size": 1616,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mofang/gift/group_gift_list.php",
+			"settings":
+			{
+				"buffer_size": 1608,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mofang/gift/group_gift_view.php",
+			"settings":
+			{
+				"buffer_size": 1520,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mofang/gift/apply_group_gift.php",
+			"settings":
+			{
+				"buffer_size": 1565,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mofang/gift/agree_group_gift_apply.php",
+			"settings":
+			{
+				"buffer_size": 1460,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mofang/gift/user_apply_list.php",
+			"settings":
+			{
+				"buffer_size": 1613,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mofang/gift/refuse_group_gift_apply.php",
+			"settings":
+			{
+				"buffer_size": 1470,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/sdkfeed/source_code/app/Controller/NobelController.php",
+		"/D/sdkfeed/source_code/app/Controller/CasualNoticeController.php",
+		"/Z/dgc_mofang/app/Model/TeamGame.php",
+		"/Z/dgc_mofang/app/Config/routes.php",
+		"/Z/dgc_mofang/app/Model/Gift.php",
+		"/Z/dgc_mofang/app/Controller/AppController.php",
+		"/Z/dgc_mofang/app/Model/ApplySysGift.php",
+		"/Z/dgc_mofang/app/Model/ApplyGroupGift.php",
+		"/Z/dgc_mofang/app/Model/GroupGift.php",
+		"/Z/dgc_mofang/app/Controller/Component/tokenComponent.php",
+		"/Z/dgc_mofang/app/Controller/FriendController.php",
+		"/Z/dgc_mofang/app/Controller/ApplyFriendController.php",
+		"/Z/dgc_mofang/app/Controller/PersonController.php",
+		"/Z/dgc_mofang/app/Model/Team.php",
+		"/Z/dgc_mofang/app/Vendor/ContactsApi.php",
+		"/Z/dgc_mofang/app/Model/UserGame.php",
+		"/Z/dgc_mofang/app/Model/Game.php",
+		"//192.168.0.29/www/vphpunit/unittest/visualphpunit/app/testcase/buty/mofang/users/friend_apply.php",
+		"/Z/dgc_mofang/app/Config/bootstrap.local.php",
+		"/Z/dgc_mofang/app/Config/core.php",
+		"/Z/dgc_mofang/app/Vendor/reportData.php",
+		"/Z/dgc_mofang/app/Vendor/UserApi.php",
+		"/D/xampp/htdocs/sphpMyAdmin/config.inc.php",
+		"/Z/dgc_mofang/app/Config/database.php",
+		"/Z/dgc_mofang/app/Model/AppModel.php",
+		"/Z/dgc_mofang/lib/Cake/Model/Model.php",
+		"/Z/dgc_mofang/app/Model/TeamMember.php",
+		"/Z/dgc_mofang/lib/Cake/Model/Datasource/DataSource.php",
+		"/Z/dgc_mofang/lib/Cake/Model/Datasource/DboSource.php",
+		"/Z/dgc_mofang/app/Controller/GroupGiftController.php",
+		"/Z/dgc_mofang/app/Controller/GiftController.php",
+		"/C/Users/Administrator/AppData/Local/Temp/bootstrap.local.php-revHEAD.svn000.tmp.php",
+		"/D/svn/sdk_service_mofang/app/Model/TeamExtend.php",
+		"/D/svn/sdk_service_mofang/app/Model/UserGame.php",
+		"/D/svn/sdk_service_mofang/app/Model/Game.php",
+		"/Z/dgc_mofang/app/Model/Group.php",
+		"//192.168.0.29/www/payv2/trunk/index.php",
+		"//192.168.0.29/www/vphpunit/unittest/visualphpunit/app/testcase/buty/sdkcore_relation/conf/config.php",
+		"//192.168.0.29/www/vphpunit/unittest/visualphpunit/app/testcase/buty/sdkcore_relation/conf/host_config.php",
+		"/Z/sdkcore/trunk/config/dev/database.php",
+		"/Z/sdkcore/trunk/config/conf.php",
+		"/Z/dgc_sdkfeed/app/Controller/NobelController.php",
+		"/Z/dgc_sdkfeed/app/Config/database.php",
+		"/Z/daniel/udp/udp_cli.php",
+		"/Z/daniel/udp/udp_srv.php",
+		"/Z/dgc_sdkfeed/app/Model/NobelPrizeLog.php",
+		"/Z/dgc_sdkfeed/app/Model/NobelEventUser.php",
+		"/Z/dgc_sdkfeed/app/Model/NobelReportData.php",
+		"/Z/dgc_sdkfeed/app/Vendor/FRedis.php",
+		"/Z/dgc_sdkfeed/lib/Cake/Model/Datasource/DboSource.php",
+		"/Z/dgc_sdkfeed/lib/Cake/Model/Datasource/DataSource.php",
+		"/Z/dgc_sdkfeed/app/Config/routes.php",
+		"/Z/dgc_sdkfeed/app/Model/SpecPaymentPoint.php",
+		"/D/xampp/htdocs/oauth_check/simulate.php",
+		"/Z/dgc_sdkfeed/app/Model/IpToPreProvince.php",
+		"/Z/dgc_sdkfeed/app/Model/IpToCity.php",
+		"/D/sdkfeed/source_code/app/Controller/SpecPaymentsController.php",
+		"/Z/dgc_sdkfeed/app/Controller/SpecPaymentsController.php",
+		"/D/sdkfeed/source_code/app/Model/SpecPaymentPoint.php",
+		"/D/sdkfeed/source_code/app/Model/IpToPreProvince.php",
+		"/D/xampp/htdocs/oauth_check/reconfigHttpRequest.php",
+		"//192.168.0.29/www/vphpunit/unittest/visualphpunit/app/testcase/austin/cgi_demo.php",
+		"/Z/dgc_sdkfeed/index.php",
+		"/Z/dgc_sdkfeed/app/Controller/game_config_controller.php",
+		"/D/sdkfeed/source_code/app/Controller/game_config_controller.php",
+		"/Z/dgc_sdkfeed/app/Controller/AppController.php",
+		"/Z/dgc_sdkfeed/app/View/Layouts/json_result.ctp",
+		"/Z/dgc_sdkfeed/lib/Cake/bootstrap.php",
+		"/Z/dgc_sdkfeed/lib/Cake/basics.php",
+		"/Z/dgc_sdkfeed/lib/Cake/Error/exceptions.php",
+		"/Z/dgc_sdkfeed/lib/Cake/Core/App.php",
+		"/D/xampp/htdocs/dgc_sdkfeed/source_code/app/Controller/game_config_controller.php",
+		"/Z/dgc_sdkfeed/app/Controller/AccountsController.php",
+		"/Z/dgc_sdkfeed/app/Controller/CasualNoticeController.php",
+		"/Z/dgc_sdkfeed/app/Model/WechatRevRedbag.php",
+		"/Z/dgc_sdkfeed/app/Model/AppModel.php",
+		"//192.168.0.29/www/vphpunit/unittest/visualphpunit/app/testcase/chain/vip/privilege.php",
+		"//192.168.0.29/www/vphpunit/unittest/visualphpunit/app/testcase/daniel/payv2_cgi/standalone/camount_portal.php",
+		"//192.168.0.29/www/vphpunit/unittest/visualphpunit/app/testcase/austin/payment_plist.php",
+		"//192.168.0.29/www/vphpunit/unittest/visualphpunit/app/testcase/austin/secure/authenticate.php",
+		"//192.168.0.29/www/vphpunit/unittest/visualphpunit/app/testcase/buty/glb/radar/report_score.php",
+		"//192.168.0.29/www/vphpunit/unittest/visualphpunit/app/testcase/buty/glb/radar/request_public_user.php",
+		"//192.168.0.29/www/vphpunit/unittest/visualphpunit/app/testcase/buty/glb/radar/fight.php",
+		"//192.168.0.29/www/vphpunit/unittest/visualphpunit/app/testcase/buty/glb/radar/record.php",
+		"//192.168.0.29/www/vphpunit/unittest/visualphpunit/app/testcase/buty/glb/account/get_profile.php",
+		"//192.168.0.29/www/vphpunit/unittest/visualphpunit/app/testcase/buty/glb/account/update_userinfo.php",
+		"//192.168.0.29/www/vphpunit/unittest/visualphpunit/app/testcase/buty/glb/account/modify_passwd.php",
+		"//192.168.0.29/www/vphpunit/unittest/visualphpunit/app/testcase/buty/glb/account/get_verifycode.php",
+		"//192.168.0.29/www/vphpunit/unittest/visualphpunit/app/testcase/buty/glb/account/bind_mobile.php",
+		"//192.168.0.29/www/vphpunit/unittest/visualphpunit/app/testcase/buty/glb/account/upload_avatar.php",
+		"//192.168.0.29/www/vphpunit/unittest/visualphpunit/app/testcase/buty/glb/account/find_passwd.php",
+		"//192.168.0.29/www/vphpunit/unittest/visualphpunit/app/testcase/buty/glb/radar/get_user_game_data.php",
+		"//192.168.0.29/www/vphpunit/unittest/visualphpunit/app/testcase/buty/glb/radar/request_user.php",
+		"//192.168.0.29/www/vphpunit/unittest/visualphpunit/app/testcase/buty/glb/config/config.php",
+		"/Z/dgc_sdkfeed/app/Controller/Component/OauthComponent.php",
+		"/Z/dgc_sdkfeed/app/Model/RedisOauth.php",
+		"/Z/dgc_sdkfeed/app/Model/game.php",
+		"/Z/dgc_sdkfeed/app/Model/feature_game.php",
+		"/C/Users/Administrator/AppData/Local/Temp/SpecPaymentsController.php-revHEAD.svn000.tmp.php",
+		"//192.168.0.29/www/vphpunit/unittest/visualphpunit/app/testcase/austin/secure/conf/config.php",
+		"//192.168.0.29/www/vphpunit/unittest/visualphpunit/app/testcase/austin/secure/conf/host_config.php",
+		"//192.168.0.29/www/vphpunit/unittest/visualphpunit/app/testcase/austin/infeed/depletecgi.php",
+		"//192.168.0.29/www/vphpunit/unittest/visualphpunit/app/testcase/austin/backend/config_config_sms_limit.php",
+		"//192.168.0.29/www/vphpunit/unittest/visualphpunit/app/lib/VPU.php",
+		"/Z/dgc_sdkfeed/app/Config/bootstrap.local.php",
+		"/Z/dgc_sdkfeed/app/Lib/ipLocation.php",
+		"/Z/dgc_sdkfeed/app/Vendor/ipLocation.php",
+		"//192.168.0.29/www/vphpunit/unittest/testcase/buty/GameConfigTest.php",
+		"/C/Users/Administrator/Desktop/Dump-0815-13-55-17/ol.feed.uu.cc-80/accounts/getPrivacy",
+		"/D/xampp/htdocs/oauth_check/cmHttpRequest.php",
+		"/Z/dgc_sdkfeed/app/Config/core.php",
+		"//192.168.0.29/www/vphpunit/unittest/testcase/austin/order_workflow.php",
+		"/E/SDK工作相关/oauth权限认证.uml",
+		"//192.168.0.13/www/dgc_checksig/order_text.txt",
+		"/D/xampp/htdocs/orders/order_text.txt",
+		"/D/xampp/htdocs/dgc_secure/source_code/app/Controller/OauthController.php",
+		"/D/xampp/htdocs/dgc_secure/source_code/app/Vendor/OAuth/OAuth.php",
+		"/D/xampp/htdocs/dgc_secure/source_code/app/Model/DataStore.php",
+		"/D/xampp/htdocs/dgc_secure/source_code/app/Model/RedisModel.php",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/D/xampp/apache/logs/test.secure.ids222.com-access.log",
+		"/D/xampp/htdocs/dgc_secure/source_code/app/Vendor/FRedis.php",
+		"/D/xampp/htdocs/dgc_secure/source_code/app/Vendor/flexihash-0.1.9.php",
+		"/D/xampp/htdocs/dgc_secure/source_code/app/Config/bootstrap.local.php.default",
+		"/D/xampp/htdocs/dgc_secure/source_code/app/Config/bootstrap.local.php",
+		"/D/xampp/htdocs/phpRedisAdmin/includes/config.inc.php",
+		"/D/xampp/htdocs/dgc_secure/source_code/app/Config/routes.php",
+		"/D/xampp/htdocs/dgc_secure/source_code/app/Vendor/redisQ.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\nsub_order_id",
+			"sub_order_id",
+			"_getGameIdsByGroupId",
+			"_judgeGiftValid",
+			"getSysGiftInfoById",
+			"addSysGift",
+			"isApplingGift",
+			"checkTeamIsMine",
+			"order",
+			"orderby",
+			"isCanApplyGift",
+			"findListById",
+			"getGiftList",
+			"debug_var",
+			"_checkTarUidParams",
+			"getOwnGroupId",
+			"findMethods",
+			"findListByTeam",
+			"findListByCreator",
+			"_checkGidStrParams",
+			"_checkTarUidParams",
+			"_contacts_api",
+			"_getContactsApi",
+			"_checkTarUidParams",
+			"addGameData",
+			"getGameByPacket",
+			"getUserGameByUid",
+			"limit",
+			"group",
+			"_checkTarUidParams",
+			"var_dump",
+			"friend_list",
+			"AppController::$app_id",
+			"UC_URL",
+			"好友",
+			"Notice1",
+			"person/add_game_data",
+			"database_count",
+			"_hiddenUserEventData",
+			"_createNewUserData",
+			"pay_coins",
+			"_hiddenUserEventData",
+			"_checkUserData",
+			"game_data",
+			"_checkEventData",
+			"_checkParamsEid",
+			"_checkTimeArea",
+			"getEventList",
+			"_checkParamsEid",
+			"用户活动数据不存在",
+			"_hiddenSurplusEventFields",
+			"xss",
+			"reducePrizeStock",
+			"pz_identity",
+			"primaryKey",
+			"save",
+			"NobelPrizeLog",
+			"gain_prob",
+			"NobelEvent",
+			"hMset",
+			"_cache_redis",
+			"_hiddenSurplusEventFields",
+			"userEventInfo",
+			"tableToModel",
+			"joins",
+			"NobelEventPrize",
+			"left",
+			"expation",
+			"error",
+			"_writePointCache",
+			"IpToCity",
+			"IP_LOOPUP_URL",
+			"dataCGI",
+			"dataCGIPaymentProfilePList",
+			"SRC_ROOT",
+			"order",
+			"getCacheSingleton",
+			"country",
+			"echo",
+			"payments",
+			"_packages",
+			"debug",
+			"",
+			"步骤一",
+			"$gt",
+			"configKeyName",
+			"conditions",
+			"IS_NEED_SEND_LOG",
+			"cacheRedisServer",
+			"spl_autoload_register",
+			"player_device_bind",
+			"linux",
+			"character",
+			"redisQconfig",
+			"authenticate",
+			"oauth_token",
+			"_new_auth_head_str",
+			"cacheRedisServer",
+			"cacheRedisServer2",
+			"redis",
+			"cacheRedisServer2",
+			"redis",
+			"modifyKey",
+			"urlencode_rfc3986",
+			"build_signature_array",
+			"create_new_player_id_by_device_login",
+			"actsAs",
+			"api_url",
+			"create_new_player_id_by_device_login",
+			"tokenPrefix",
+			"LOGIN_TYPE_DEVICE_IDENTIFIER",
+			"oauth_domain",
+			"useTable",
+			"sdk",
+			"config",
+			"verifier",
+			"create_new_player_id_by_device_login",
+			"login_name",
+			"login_password",
+			"POST_INPUT",
+			"conditions",
+			"productPrefix",
+			"START_ACTION_TIME",
+			"SET_LOG_POINT_TIME",
+			"fetch_request_token",
+			"oauth/request_token ",
+			"Plugin",
+			"oauthserver"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "mofang/gift/set_gift_type.php",
+					"settings":
+					{
+						"buffer_size": 1616,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								625,
+								631
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "mofang/gift/group_gift_list.php",
+					"settings":
+					{
+						"buffer_size": 1608,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								618,
+								621
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 66.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "mofang/gift/group_gift_view.php",
+					"settings":
+					{
+						"buffer_size": 1520,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								322,
+								322
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "mofang/gift/apply_group_gift.php",
+					"settings":
+					{
+						"buffer_size": 1565,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								531,
+								531
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "mofang/gift/agree_group_gift_apply.php",
+					"settings":
+					{
+						"buffer_size": 1460,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								754,
+								754
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "mofang/gift/user_apply_list.php",
+					"settings":
+					{
+						"buffer_size": 1613,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								628,
+								628
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "mofang/gift/refuse_group_gift_apply.php",
+					"settings":
+					{
+						"buffer_size": 1470,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								394,
+								394
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 66.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 263.0,
+	"status_bar_visible": true
+}
